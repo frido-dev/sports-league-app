@@ -1,0 +1,12 @@
+# Sports leagues app
+
+## Tech Stack
+React (Vite)
+TanStack React Query
+
+## Use of AI
+AI was used as a development assistant to:
+
+Improve folder structure
+Refactor API integration with React Query
+Improve styling
