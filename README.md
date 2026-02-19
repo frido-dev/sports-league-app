@@ -6,7 +6,7 @@ React (Vite)
 TanStack React Query
 
 ## Use of AI
-AI was used as a development assistant to:
+ChatGPT was used as a development assistant to:
 
 Improve folder structure
 
