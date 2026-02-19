@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "../styles/index.css";
 import Searchbar from "../components/Searchbar";
 import DropdownFilter from "../components/DropdownFilter";
-import SportLeagueList from "../components/SportleagueList";
+import SportLeagueList from "../components/SportLeagueList";
 import LeagueBadgeModal from "../components/LeagueBadgeModal";
 import {
   useSportsLeaguesQuery,
